@@ -21,7 +21,7 @@ _**1: Solve the First Version**_
 
 The task is episodic, and in order to solve the environment, the agent must get an average score of +30 over 100 consecutive episodes.
 
-_**1: Solve the Second Version**_
+_**2: Solve the Second Version**_
 
 The barrier for solving the second version of the environment is slightly different, to take into account the presence of many agents. In particular, the 20 agents must get an average score of +30 (over 100 consecutive episodes, and over all agents). 
 
